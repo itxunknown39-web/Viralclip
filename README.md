@@ -2,6 +2,8 @@
 
 Paste a YouTube URL → AI finds, ranks, and renders your most viral short-form moments as 1080×1920 MP4 clips.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/itxunknown39-web/Viralclip/blob/main/ViralCut_AI_Colab.ipynb)
+
 ```
 YouTube / Video URL
       ↓
