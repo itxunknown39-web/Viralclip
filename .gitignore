@@ -1,0 +1,27 @@
+# Secrets
+.env
+*.env
+cookies.txt
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+
+# Node
+node_modules/
+web/dist/
+
+# Workspace
+workspace/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs
+*.log
